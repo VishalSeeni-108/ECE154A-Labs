@@ -1,0 +1,1628 @@
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v failed with 9 errors.
+# Compile of ucsbece154a_defines.vh failed with 1 errors.
+# 10 compiles, 2 failed with 10 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# Compile of ucsbece154a_defines.vh failed with 1 errors.
+# 10 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Error opening G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/(vlog-13069) G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v
+# Path name 'G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/(vlog-13069) G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v' doesn't exist.
+# Error opening G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/(vlog-13069) G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v
+# Path name 'G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/(vlog-13069) G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v' doesn't exist.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 1 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:31:18 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:31:19 on Nov 11,2024, Elapsed time: 0:00:01
+# Errors: 32, Warnings: 67
+verror 3008
+# 
+# vsim Message # 3008:
+# While looking up an object by name, an upward reference through a higher
+# level of hierarchy was found instead of the expected downward reference
+# through an instance at the current level of hierarchy. Here is an example
+# of code that causes this warning to occur:
+# 
+#   module lower;
+#   endmodule
+# 
+#   module mid;
+#     reg x;
+#     lower u2 ();
+#     initial begin
+#       x = 0;
+#       #20 x = 1;
+#       #20 x = 0;
+#       #20 $finish;
+#     end
+#   endmodule
+# 
+#   module top;
+#     wire x;
+#     mid u1 ();
+#     assign x = u1.u2.u1.x;
+#     initial $monitor( $stime,, x,, u1.x);
+#   endmodule
+# 
+# While trying to resolve the reference to u1.u2.u1.x, the compiler determines
+# that the second u1 resolves to the module 'mid', which is an unexpected
+# upward reference.
+# This warning is controlled by the vsim option +nowarnCNNODP.
+# 
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:41:37 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (rf) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'rf' in top.riscv.dp.rf.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:41:38 on Nov 11,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Load canceled
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v failed with 2 errors.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 1 failed with 2 errors.
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:43:44 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (rf) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'rf' in top.riscv.dp.rf.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:43:44 on Nov 11,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:44:13 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:44:14 on Nov 11,2024, Elapsed time: 0:00:01
+# Errors: 32, Warnings: 34
+verror 3043
+# 
+# vsim Message # 3043:
+# The specified name in a simple or hierarchical reference cannot be found
+# as an instance or object in the design.
+# If the reference is a VHDL external name or is otherwise a hierarchical
+# reference into a VHDL scope, a common possible reason the name cannot be
+# found is that the name denotes a PROCESS statement label or a subprogram
+# name; such external names are illegal in the VHDL language (see message
+#8868 as well).  Another possible reason the name cannot be found is
+# that a pathname element denotes an instance that has not yet been
+# elaborated.  In particular, an alias that denotes an external name
+# cannot be declared in the declarative region in which an instance being
+# referenced occurs.
+# 
+verror 3043
+# 
+# vsim Message # 3043:
+# The specified name in a simple or hierarchical reference cannot be found
+# as an instance or object in the design.
+# If the reference is a VHDL external name or is otherwise a hierarchical
+# reference into a VHDL scope, a common possible reason the name cannot be
+# found is that the name denotes a PROCESS statement label or a subprogram
+# name; such external names are illegal in the VHDL language (see message
+#8868 as well).  Another possible reason the name cannot be found is
+# that a pathname element denotes an instance that has not yet been
+# elaborated.  In particular, an alias that denotes an external name
+# cannot be declared in the declarative region in which an instance being
+# referenced occurs.
+# 
+verror 3008
+# 
+# vsim Message # 3008:
+# While looking up an object by name, an upward reference through a higher
+# level of hierarchy was found instead of the expected downward reference
+# through an instance at the current level of hierarchy. Here is an example
+# of code that causes this warning to occur:
+# 
+#   module lower;
+#   endmodule
+# 
+#   module mid;
+#     reg x;
+#     lower u2 ();
+#     initial begin
+#       x = 0;
+#       #20 x = 1;
+#       #20 x = 0;
+#       #20 $finish;
+#     end
+#   endmodule
+# 
+#   module top;
+#     wire x;
+#     mid u1 ();
+#     assign x = u1.u2.u1.x;
+#     initial $monitor( $stime,, x,, u1.x);
+#   endmodule
+# 
+# While trying to resolve the reference to u1.u2.u1.x, the compiler determines
+# that the second u1 resolves to the module 'mid', which is an unexpected
+# upward reference.
+# This warning is controlled by the vsim option +nowarnCNNODP.
+# 
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:45:13 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:45:14 on Nov 11,2024, Elapsed time: 0:00:01
+# Errors: 32, Warnings: 33
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:47:19 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:47:20 on Nov 11,2024, Elapsed time: 0:00:01
+# Errors: 32, Warnings: 34
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:48:29 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:48:29 on Nov 11,2024, Elapsed time: 0:00:00
+# Errors: 32, Warnings: 34
+verror 3008
+# 
+# vsim Message # 3008:
+# While looking up an object by name, an upward reference through a higher
+# level of hierarchy was found instead of the expected downward reference
+# through an instance at the current level of hierarchy. Here is an example
+# of code that causes this warning to occur:
+# 
+#   module lower;
+#   endmodule
+# 
+#   module mid;
+#     reg x;
+#     lower u2 ();
+#     initial begin
+#       x = 0;
+#       #20 x = 1;
+#       #20 x = 0;
+#       #20 $finish;
+#     end
+#   endmodule
+# 
+#   module top;
+#     wire x;
+#     mid u1 ();
+#     assign x = u1.u2.u1.x;
+#     initial $monitor( $stime,, x,, u1.x);
+#   endmodule
+# 
+# While trying to resolve the reference to u1.u2.u1.x, the compiler determines
+# that the second u1 resolves to the module 'mid', which is an unexpected
+# upward reference.
+# This warning is controlled by the vsim option +nowarnCNNODP.
+# 
+vsim -gui work.ucsbece154a_top
+# vsim -gui work.ucsbece154a_top 
+# Start time: 23:51:41 on Nov 11,2024
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+vsim -gui work.ucsbece154a_top_tb
+# End time: 23:52:13 on Nov 11,2024, Elapsed time: 0:00:32
+# Errors: 0, Warnings: 1
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:52:13 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Error: (vsim-3043) Unresolved reference to 'a0' in top.riscv.dp.rf.a0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 32
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Error: (vsim-3043) Unresolved reference to 'a1' in top.riscv.dp.rf.a1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 33
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Error: (vsim-3043) Unresolved reference to 'a2' in top.riscv.dp.rf.a2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 34
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Error: (vsim-3043) Unresolved reference to 'a3' in top.riscv.dp.rf.a3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 35
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Error: (vsim-3043) Unresolved reference to 'a4' in top.riscv.dp.rf.a4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 36
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Error: (vsim-3043) Unresolved reference to 'a5' in top.riscv.dp.rf.a5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 37
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Error: (vsim-3043) Unresolved reference to 'a6' in top.riscv.dp.rf.a6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 38
+# ** Warning: (vsim-3008) [CNNODP] - Component name (a7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Error: (vsim-3043) Unresolved reference to 'a7' in top.riscv.dp.rf.a7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 39
+# ** Warning: (vsim-3008) [CNNODP] - Component name (gp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Error: (vsim-3043) Unresolved reference to 'gp' in top.riscv.dp.rf.gp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 25
+# ** Warning: (vsim-3008) [CNNODP] - Component name (ra) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Error: (vsim-3043) Unresolved reference to 'ra' in top.riscv.dp.rf.ra.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 23
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Error: (vsim-3043) Unresolved reference to 's0' in top.riscv.dp.rf.s0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 30
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Error: (vsim-3043) Unresolved reference to 's1' in top.riscv.dp.rf.s1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 31
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s10) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Error: (vsim-3043) Unresolved reference to 's10' in top.riscv.dp.rf.s10.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 48
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s11) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Error: (vsim-3043) Unresolved reference to 's11' in top.riscv.dp.rf.s11.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 49
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Error: (vsim-3043) Unresolved reference to 's2' in top.riscv.dp.rf.s2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 40
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Error: (vsim-3043) Unresolved reference to 's3' in top.riscv.dp.rf.s3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 41
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Error: (vsim-3043) Unresolved reference to 's4' in top.riscv.dp.rf.s4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 42
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Error: (vsim-3043) Unresolved reference to 's5' in top.riscv.dp.rf.s5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 43
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Error: (vsim-3043) Unresolved reference to 's6' in top.riscv.dp.rf.s6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 44
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s7) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Error: (vsim-3043) Unresolved reference to 's7' in top.riscv.dp.rf.s7.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 45
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s8) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Error: (vsim-3043) Unresolved reference to 's8' in top.riscv.dp.rf.s8.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 46
+# ** Warning: (vsim-3008) [CNNODP] - Component name (s9) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Error: (vsim-3043) Unresolved reference to 's9' in top.riscv.dp.rf.s9.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 47
+# ** Warning: (vsim-3008) [CNNODP] - Component name (sp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Error: (vsim-3043) Unresolved reference to 'sp' in top.riscv.dp.rf.sp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 24
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t0) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Error: (vsim-3043) Unresolved reference to 't0' in top.riscv.dp.rf.t0.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 27
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t1) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Error: (vsim-3043) Unresolved reference to 't1' in top.riscv.dp.rf.t1.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 28
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t2) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Error: (vsim-3043) Unresolved reference to 't2' in top.riscv.dp.rf.t2.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 29
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t3) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Error: (vsim-3043) Unresolved reference to 't3' in top.riscv.dp.rf.t3.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 50
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t4) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Error: (vsim-3043) Unresolved reference to 't4' in top.riscv.dp.rf.t4.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 51
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t5) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Error: (vsim-3043) Unresolved reference to 't5' in top.riscv.dp.rf.t5.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 52
+# ** Warning: (vsim-3008) [CNNODP] - Component name (t6) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Error: (vsim-3043) Unresolved reference to 't6' in top.riscv.dp.rf.t6.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 53
+# ** Warning: (vsim-3008) [CNNODP] - Component name (tp) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Error: (vsim-3043) Unresolved reference to 'tp' in top.riscv.dp.rf.tp.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 26
+# ** Warning: (vsim-3008) [CNNODP] - Component name (zero) is not on a downward path.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# ** Error: (vsim-3043) Unresolved reference to 'zero' in top.riscv.dp.rf.zero.
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 22
+# Error loading design
+# End time: 23:52:13 on Nov 11,2024, Elapsed time: 0:00:00
+# Errors: 32, Warnings: 33
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful with warnings.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top_tb
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:53:41 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+add wave -position end sim:/ucsbece154a_top_tb/*
+run
+# ** Warning: (vsim-7) Failed to open readmem file "memfile.dat" in read mode.
+# No such file or directory. (errno = ENOENT)    : G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_imem.v(18)
+#    Time: 0 ps  Iteration: 0  Instance: /ucsbece154a_top_tb/top/imem
+# Begin simulation.
+# ** Error: reg_sp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 71
+# ** Error: reg_gp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 72
+# ** Error: reg_tp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 73
+# ** Error: reg_t0 incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 74
+# ** Error: reg_t2 incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 75
+# ** Error: dmem.RAM[24] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 76
+# ** Error: dmem.RAM[25] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 77
+# ** Error: dmem.RAM[26] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 78
+# End simulation.
+# ** Note: $stop    : G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v(82)
+#    Time: 43 ps  Iteration: 1  Instance: /ucsbece154a_top_tb
+# Break in Module ucsbece154a_top_tb at G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v line 82
+pwd
+# G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4
+vsim -gui work.ucsbece154a_top_tb
+# End time: 23:58:48 on Nov 11,2024, Elapsed time: 0:05:07
+# Errors: 8, Warnings: 3
+# vsim -gui work.ucsbece154a_top_tb 
+# Start time: 23:58:48 on Nov 11,2024
+# Loading work.ucsbece154a_top_tb
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+add wave -position end sim:/ucsbece154a_top_tb/*
+run
+# Begin simulation.
+# ** Warning: Assertion error.
+#    Time: 15 ps  Scope: ucsbece154a_top_tb.top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+# ** Warning: Assertion error.
+#    Time: 19 ps  Scope: ucsbece154a_top_tb.top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+# ** Warning: Assertion error.
+#    Time: 22 ps  Scope: ucsbece154a_top_tb.top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+# ** Error: reg_sp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 71
+# ** Error: reg_gp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 72
+# ** Error: reg_tp incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 73
+# ** Error: reg_t0 incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 74
+# ** Error: reg_t2 incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 75
+# ** Error: dmem.RAM[24] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 76
+# ** Error: dmem.RAM[25] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 77
+# ** Error: dmem.RAM[26] incorrect
+#    Time: 43 ps  Scope: ucsbece154a_top_tb File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v Line: 78
+# End simulation.
+# ** Note: $stop    : G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v(82)
+#    Time: 43 ps  Iteration: 1  Instance: /ucsbece154a_top_tb
+# Break in Module ucsbece154a_top_tb at G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v line 82
+vsim -gui work.ucsbece154a_top
+# End time: 00:50:02 on Nov 12,2024, Elapsed time: 0:51:14
+# Errors: 8, Warnings: 4
+# vsim -gui work.ucsbece154a_top 
+# Start time: 00:50:02 on Nov 12,2024
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+add wave -position end sim:/ucsbece154a_top/*
+force -freeze sim:/ucsbece154a_top/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/ucsbece154a_top/reset 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Warning: Assertion error.
+#    Time: 750 ps  Scope: ucsbece154a_top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+run
+run
+# ** Warning: Assertion error.
+#    Time: 950 ps  Scope: ucsbece154a_top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+run
+# ** Warning: Assertion error.
+#    Time: 1100 ps  Scope: ucsbece154a_top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of ucsbece154a_alu.v was successful.
+# Compile of ucsbece154a_controller.v was successful.
+# Compile of ucsbece154a_datapath.v was successful.
+# Compile of ucsbece154a_dmem.v was successful.
+# Compile of ucsbece154a_imem.v was successful.
+# Compile of ucsbece154a_rf.v was successful.
+# Compile of ucsbece154a_riscv.v was successful.
+# Compile of ucsbece154a_top.v was successful.
+# Compile of ucsbece154a_top_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.ucsbece154a_top
+# End time: 00:57:55 on Nov 12,2024, Elapsed time: 0:07:53
+# Errors: 0, Warnings: 5
+# vsim -gui work.ucsbece154a_top 
+# Start time: 00:57:55 on Nov 12,2024
+# Loading work.ucsbece154a_top
+# Loading work.ucsbece154a_riscv
+# Loading work.ucsbece154a_controller
+# Loading work.ucsbece154a_datapath
+# Loading work.ucsbece154a_alu
+# Loading work.ucsbece154a_rf
+# Loading work.ucsbece154a_imem
+# Loading work.ucsbece154a_dmem
+add wave -position end sim:/ucsbece154a_top/*
+add wave -position end sim:/ucsbece154a_top/riscv/*
+force -freeze sim:/ucsbece154a_top/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/ucsbece154a_top/reset 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Warning: Assertion error.
+#    Time: 750 ps  Scope: ucsbece154a_top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60
+run
+run
+# ** Warning: Assertion error.
+#    Time: 950 ps  Scope: ucsbece154a_top.riscv.c File: G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_controller.v Line: 60

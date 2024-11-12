@@ -1,0 +1,57 @@
+{G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_alu.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_alu
+
+Top level modules:
+	ucsbece154a_alu
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_datapath
+
+Top level modules:
+	ucsbece154a_datapath
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_top
+
+Top level modules:
+	ucsbece154a_top
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_riscv.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_riscv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_riscv
+
+Top level modules:
+	ucsbece154a_riscv
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_dmem.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_dmem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_dmem
+
+Top level modules:
+	ucsbece154a_dmem
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_rf.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_rf.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_rf
+
+Top level modules:
+	ucsbece154a_rf
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_top_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_top_tb
+
+Top level modules:
+	ucsbece154a_top_tb
+
+} {} {}} {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_imem.v} {1 {vlog -work work -stats=none {G:/Documents/School/2024-2025/Fall 2024/ECE 154A/Lab 4/riscv_singlecycle_starter/ucsbece154a_imem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ucsbece154a_imem
+
+Top level modules:
+	ucsbece154a_imem
+
+} {} {}}
