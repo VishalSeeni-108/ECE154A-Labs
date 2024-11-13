@@ -35,7 +35,6 @@ reg [31:0] result;
 reg [31:0] PCNext; 
 reg [31:0] PCPlus4; 
 reg [31:0] PCTarget;
-reg [31:0] PC; 
 
 
 
@@ -56,29 +55,36 @@ ucsbece154a_rf rf(
 );
 
 assign writedata_o = RD2; 
-assign pc_o = PC; 
 
 initial begin
-	PC = 'h0000; 
+	pc_o = 0; 
+	PCNext = 0;
 end
 
 always @ * begin
 	//ImmExt
-	if(ImmSrc_i == 000)begin
+	if(ImmSrc_i == 3'b000)begin
     	ImmExt[31:12] = instr_i[31];
     	ImmExt[11:0] = instr_i[31:20]; //Check this in testing to make sure extension is being done properly
 	end 
-	else if(ImmSrc_i == 001) begin
+	else if(ImmSrc_i == 3'b001) begin
     	ImmExt[31:12] = instr_i[31]; 
     	ImmExt[11:5] = instr_i[31:25];
     	ImmExt[4:0] = instr_i[11:7];
 	end 
-	else if(ImmSrc_i == 010) begin
+	else if(ImmSrc_i == 3'b010) begin
     	ImmExt[31:12] = instr_i[31]; 
     	ImmExt[11] = instr_i[7];
     	ImmExt[10:5] = instr_i[30:25];
     	ImmExt[4:1] = instr_i[11:8];
     	ImmExt[0] = 0; 
+	end
+	else if(ImmSrc_i == 3'b011) begin
+	ImmExt[31:20] = instr_i[31]; 
+	ImmExt[19:12] = instr_i[19:12]; 
+	ImmExt[11] = instr_i[20];
+	ImmExt[10:1] = instr_i[30:21];
+	ImmExt[0] = 0; 
 	end
 
 	//SrcB Mux
@@ -87,20 +93,24 @@ always @ * begin
         	SrcB = ImmExt;
 	end
 
-	//Result Mux
-    	result = aluresult_o;
-    	if (ResultSrc_i == 01) begin
-		result = readdata_i; 
-    	end
-end
-
-always @ clk begin
-	PCPlus4 = PC + 4; 
-	PCTarget = PC + ImmExt; 
+	//PC Math
+	PCPlus4 <= pc_o + 4; 
+	PCTarget <= pc_o + ImmExt; 
 	PCNext = PCPlus4; 
 	if (PCSrc_i) begin
-		PCNext = PCTarget; 
+		PCNext <= PCTarget; 
     	end
-	PC = PCNext; 
+
+	//Result Mux
+    	result = {20'b00000000000000000000,aluresult_o[11:0]};
+    	if (ResultSrc_i == 01) begin
+		result = readdata_i; 
+    	end else if (ResultSrc_i == 10) begin
+		result = PCPlus4;
+	end
+end
+
+always @ (posedge clk) begin
+	pc_o <= PCNext;
 end
 endmodule

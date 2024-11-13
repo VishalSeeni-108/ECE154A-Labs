@@ -25,7 +25,7 @@ module ucsbece154a_controller (
 // TO DO: Generate properly PCSrc by replacing all `z` values with the correct values
 
  wire branch, jump;
- assign PCSrc_o = 1'bz;
+ assign PCSrc_o = (branch & zero_i) | (op_i == instr_jal_op);
 
 
 //  TO DO: Implement main decoder 
@@ -51,7 +51,8 @@ module ucsbece154a_controller (
 	instr_sw_op:        controls = 12'b0_001_1_1_xx_0_00_0;  
 	instr_Rtype_op:     controls = 12'b1_xxx_0_0_00_0_10_0;   
 	instr_beq_op:       controls = 12'b0_010_0_0_xx_1_01_0;   
-	instr_ItypeALU_op:  controls = 12'b1_000_1_0_00_0_10_0;    
+	instr_ItypeALU_op:  controls = 12'b1_000_1_0_00_0_10_0;   
+	instr_jal_op:	    controls = 12'b1_011_x_0_10_0_xx_1; 
 	default: begin	    
                             controls = 12'bx_xxx_x_x_xx_x_xx_x;       
             `ifdef SIM
