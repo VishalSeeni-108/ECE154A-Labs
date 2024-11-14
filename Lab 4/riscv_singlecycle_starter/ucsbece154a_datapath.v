@@ -29,6 +29,7 @@ module ucsbece154a_datapath (
 
 wire [31:0] RD1; //Same as SrcA
 wire [31:0] RD2;
+reg [31:0] SrcA; 
 reg [31:0] SrcB;
 reg [31:0] ImmExt;
 reg [31:0] result;
@@ -40,7 +41,7 @@ reg [31:0] PCTarget;
 
 
 ucsbece154a_alu alu (
-    .a_i(RD1), .b_i(SrcB),
+    .a_i(SrcA), .b_i(SrcB),
     .alucontrol_i(ALUControl_i),
     .result_o(aluresult_o),
     .zero_o(zero_o)
@@ -85,7 +86,18 @@ always @ * begin
 	ImmExt[11] = instr_i[20];
 	ImmExt[10:1] = instr_i[30:21];
 	ImmExt[0] = 0; 
+	end 
+	else if(ImmSrc_i == 3'b100) begin
+	ImmExt[31:12] = instr_i[31:12];
+	ImmExt[11:0] = 0; 
 	end
+
+	//SrcA Mux
+	SrcA = RD1;
+	if (ImmSrc_i == 3'b100) begin
+		SrcA = 0; 
+	end
+	
 
 	//SrcB Mux
     	SrcB = RD2;
@@ -102,10 +114,14 @@ always @ * begin
     	end
 
 	//Result Mux
-    	result = {20'b00000000000000000000,aluresult_o[11:0]};
-    	if (ResultSrc_i == 01) begin
+	if (ImmSrc_i == 3'b100)begin
+		result = aluresult_o;
+	end else begin
+		result = {20'b00000000000000000000,aluresult_o[11:0]};
+	end
+    	if (ResultSrc_i == 2'b01) begin
 		result = readdata_i; 
-    	end else if (ResultSrc_i == 10) begin
+    	end else if (ResultSrc_i == 2'b10) begin
 		result = PCPlus4;
 	end
 end
