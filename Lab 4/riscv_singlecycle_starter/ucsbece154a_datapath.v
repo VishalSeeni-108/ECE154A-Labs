@@ -97,7 +97,7 @@ always @ * begin
 
 	//SrcA Mux
 	SrcA = RD1;
-	if (ImmSrc_i == 3'b100) begin
+	if (ImmSrc_i[2]) begin
 		SrcA = 0; 
 	end
 	
