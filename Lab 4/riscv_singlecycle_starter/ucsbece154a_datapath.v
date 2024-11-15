@@ -65,23 +65,23 @@ end
 always @ * begin
 	//ImmExt
 	if(ImmSrc_i == 3'b000)begin
-    	ImmExt[31:12] = instr_i[31];
+    	ImmExt[31:12] = {20{instr_i[31]}};
     	ImmExt[11:0] = instr_i[31:20]; //Check this in testing to make sure extension is being done properly
 	end 
 	else if(ImmSrc_i == 3'b001) begin
-    	ImmExt[31:12] = instr_i[31]; 
+    	ImmExt[31:12] = {20{instr_i[31]}}; 
     	ImmExt[11:5] = instr_i[31:25];
     	ImmExt[4:0] = instr_i[11:7];
 	end 
 	else if(ImmSrc_i == 3'b010) begin
-    	ImmExt[31:12] = instr_i[31]; 
+    	ImmExt[31:12] = {20{instr_i[31]}}; 
     	ImmExt[11] = instr_i[7];
     	ImmExt[10:5] = instr_i[30:25];
     	ImmExt[4:1] = instr_i[11:8];
     	ImmExt[0] = 0; 
 	end
 	else if(ImmSrc_i == 3'b011) begin
-	ImmExt[31:20] = instr_i[31]; 
+	ImmExt[31:20] = {12{instr_i[31]}}; 
 	ImmExt[19:12] = instr_i[19:12]; 
 	ImmExt[11] = instr_i[20];
 	ImmExt[10:1] = instr_i[30:21];
@@ -90,6 +90,9 @@ always @ * begin
 	else if(ImmSrc_i == 3'b100) begin
 	ImmExt[31:12] = instr_i[31:12];
 	ImmExt[11:0] = 0; 
+	end
+	else begin
+	ImmExt[31:0] = {32{1'bx}};
 	end
 
 	//SrcA Mux
@@ -106,11 +109,11 @@ always @ * begin
 	end
 
 	//PC Math
-	PCPlus4 <= pc_o + 4; 
-	PCTarget <= pc_o + ImmExt; 
+	PCPlus4 = pc_o + 4; 
+	PCTarget = pc_o + ImmExt; 
 	PCNext = PCPlus4; 
 	if (PCSrc_i) begin
-		PCNext <= PCTarget; 
+		PCNext = PCTarget; 
     	end
 
 	//Result Mux
@@ -126,7 +129,11 @@ always @ * begin
 	end
 end
 
-always @ (posedge clk) begin
-	pc_o <= PCNext;
+always @ (posedge clk or posedge reset) begin
+	if (reset) begin
+        pc_o <= 0;
+	end else begin
+		pc_o <= PCNext;
+	end
 end
 endmodule
