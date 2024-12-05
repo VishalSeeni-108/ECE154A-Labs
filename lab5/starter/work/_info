@@ -1,0 +1,201 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/fs/student/vseenivasan/ece154a/lab5/starter
+T_opt
+!s110 1732759063
+V83>=5XJ]9hXGalOJBiolz0
+04 18 4 work ucsbece154a_top_tb fast 0
+=1-5a8b9836522f-6747ce17-b11a2-cfe3
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7d;67
+vucsbece154a_alu
+Z2 !s110 1732759060
+!i10b 1
+!s100 <b9@ee7lCRLk8Ni9J]0eO0
+IEWJUK647WKE>QJVXI_b0L2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1700945080
+8ucsbece154a_alu.v
+Fucsbece154a_alu.v
+Z4 Fucsbece154a_defines.vh
+L0 7
+Z5 OL;L;10.7d;67
+r1
+!s85 0
+31
+Z6 !s108 1732759060.000000
+!s107 ucsbece154a_defines.vh|ucsbece154a_alu.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_alu.v|
+!i113 0
+Z7 o-quiet -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -quiet +define+SIM -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vucsbece154a_controller
+R2
+!i10b 1
+!s100 Llg5n0eEYcXGQ8VKLnigm3
+Iz:oSAMM2kMcE4C7GjR`M22
+R3
+R0
+w1732758723
+8ucsbece154a_controller.v
+Fucsbece154a_controller.v
+R4
+Z9 L0 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_defines.vh|ucsbece154a_controller.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_controller.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_datapath
+R2
+!i10b 1
+!s100 G?nOaLFc=X=OON4>7>YiT3
+I2lNFC8:JbgdP:I=N^K85H0
+R3
+R0
+w1732759056
+8ucsbece154a_datapath.v
+Fucsbece154a_datapath.v
+R4
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_defines.vh|ucsbece154a_datapath.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_datapath.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_mem
+R2
+!i10b 1
+!s100 cBle9BCmDll?Ig?T0gJVd3
+I7gkH<5oO6]gUNTZh0Y]fV3
+R3
+R0
+w1700866424
+8ucsbece154a_mem.v
+Fucsbece154a_mem.v
+L0 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_mem.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_mem.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_rf
+R2
+!i10b 1
+!s100 05nYm3K6<4TES;N8ScECm0
+IHBUVTaUE[R:j2?QCcolZZ2
+R3
+R0
+w1699727950
+8ucsbece154a_rf.v
+Fucsbece154a_rf.v
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_rf.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_rf.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_riscv
+R2
+!i10b 1
+!s100 KICZUYK[CfAekB3@AFEN^2
+I=eGOSB1g]:I4S>@;eb0Mf3
+R3
+R0
+w1700945748
+8ucsbece154a_riscv.v
+Fucsbece154a_riscv.v
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_riscv.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_riscv.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_top
+R2
+!i10b 1
+!s100 ZIJ<mo]^[A2R454Gh3hP:0
+INzCQhFW^O1BK4`QYGkRhH3
+R3
+R0
+w1700866306
+8ucsbece154a_top.v
+Fucsbece154a_top.v
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_top.v|
+!s90 +define+SIM|-quiet|-work|work|ucsbece154a_top.v|
+!i113 0
+R7
+R8
+R1
+vucsbece154a_top_tb
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+R2
+!i10b 1
+!s100 h>PfUVRQBf`ZRUV5RR1o<0
+IR1CgURG23WHc6G^Hhk6li1
+R3
+!s105 ucsbece154a_top_tb_v_unit
+S1
+R0
+w1700953922
+8ucsbece154a_top_tb.v
+Fucsbece154a_top_tb.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 ucsbece154a_top_tb.v|
+!s90 +define+SIM|-sv|-quiet|-work|work|ucsbece154a_top_tb.v|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -quiet +define+SIM -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

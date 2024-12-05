@@ -1,0 +1,151 @@
+# Reading pref.tcl
+# //  ModelSim SE-64 10.7d Feb 15 2019 Linux 4.18.0-553.27.1.el8_10.x86_64
+# //
+# //  Copyright 1991-2019 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# vsim -gui -voptargs="+acc=lprn" ucsbece154a_top_tb 
+# Start time: 20:43:02 on Nov 27,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.ucsbece154a_top_tb(fast)
+# Loading work.ucsbece154a_top(fast)
+# Loading work.ucsbece154a_riscv(fast)
+# Loading work.ucsbece154a_controller(fast)
+# Loading work.ucsbece154a_datapath(fast)
+# Loading work.ucsbece154a_rf(fast)
+# Loading work.ucsbece154a_alu(fast)
+# Loading work.ucsbece154a_mem(fast)
+add wave -position end sim:/ucsbece154a_top_tb/top/*
+add wave -position end sim:/ucsbece154a_top_tb/top/riscv/dp/*
+add wave -position end sim:/ucsbece154a_top_tb/top/riscv/dp/*
+add wave -position end sim:/ucsbece154a_top_tb/top/riscv/dp/*
+add wave -position end sim:/ucsbece154a_top_tb/top/riscv/c/*
+add wave -position end sim:/ucsbece154a_top_tb/top/riscv/c/*
+run -all
+# Begin simulation.
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 8 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 16 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 24 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 32 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 40 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 48 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 62 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 76 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 84 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 92 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 98 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 106 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 114 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 122 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 132 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 140 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 148 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 156 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 162 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 170 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 178 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 184 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 192 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# End simulation.
+# ** Note: $stop    : ucsbece154a_top_tb.v(97)
+#    Time: 203 ns  Iteration: 1  Instance: /ucsbece154a_top_tb
+# Break in Module ucsbece154a_top_tb at ucsbece154a_top_tb.v line 97
+run
+run -all
+# Break key hit
+# Simulation stop requested.
+# Break key hit
+restart
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading work.ucsbece154a_top_tb(fast)
+# Loading work.ucsbece154a_top(fast)
+# Loading work.ucsbece154a_riscv(fast)
+# Loading work.ucsbece154a_controller(fast)
+# Loading work.ucsbece154a_datapath(fast)
+# Loading work.ucsbece154a_rf(fast)
+# Loading work.ucsbece154a_alu(fast)
+# Loading work.ucsbece154a_mem(fast)
+run -all
+# Begin simulation.
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 8 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 16 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 24 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 32 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 40 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 48 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 62 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 76 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 84 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 92 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 98 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 106 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 114 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 122 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 132 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 140 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 148 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 156 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 162 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 170 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 178 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 184 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# ** Warning: Unsupported ALUOp given: x
+#    Time: 192 ns  Scope: ucsbece154a_top_tb.top.riscv.dp.alu File: ucsbece154a_alu.v Line: 26
+# End simulation.
+# ** Note: $stop    : ucsbece154a_top_tb.v(97)
+#    Time: 203 ns  Iteration: 1  Instance: /ucsbece154a_top_tb
+# Break in Module ucsbece154a_top_tb at ucsbece154a_top_tb.v line 97
